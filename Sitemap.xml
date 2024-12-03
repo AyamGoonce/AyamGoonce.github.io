@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Welcome Page -->
+   <url>
+      <loc>https://www.electriceyerock.com/p/welcome-to-electric-eye.html</loc>
+      <lastmod>2024-12-03</lastmod> <!-- Modify this date to when your page was last updated -->
+      <priority>1.0</priority> <!-- Optional: Set a high priority for the Welcome Page -->
+   </url>
+
+   <!-- Blogger Default Sitemap Pages -->
+   <url>
+      <loc>https://www.electriceyerock.com/atom.xml?redirect=false&start-index=1&max-results=500</loc>
+      <lastmod>2024-12-03</lastmod> <!-- Modify to your last post or page update date -->
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://www.electriceyerock.com/atom.xml?redirect=false&start-index=501&max-results=500</loc>
+      <lastmod>2024-12-03</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://www.electriceyerock.com/atom.xml?redirect=false&start-index=1001&max-results=500</loc>
+      <lastmod>2024-12-03</lastmod>
+      <priority>0.8</priority>
+   </url>
+</urlset>
