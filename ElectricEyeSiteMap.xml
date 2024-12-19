@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- Static Pages -->
+<url>
+  <loc>https://www.electriceyerock.com/p/welcome-to-electric-eye.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/p/blog-page.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/p/interviews.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/p/miscellenaous.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/p/forums.html</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.7</priority>
+</url>
+
+<!-- Blog Posts -->
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/x-mas-gift-ideas.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/watch-history-of-metal-and-horror.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/eric-clapton-to-return-to-paris-in-2025.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/the-inessential-90s-discography.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/listen-to-cures-new-live-album-here.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/popa-chubby-announces-french-tour.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/barely-month-after-their-incandescent.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/slipknot-accor-arena-paris-december.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://www.electriceyerock.com/2024/12/bryan-adams-releases-new-video-from.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<!-- Add all remaining posts here following the same structure -->
+</urlset>
